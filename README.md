@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YooAhHyeon%20financedata&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyeon%20financedata&fontSize=90)
 
 
   <div align=center>
